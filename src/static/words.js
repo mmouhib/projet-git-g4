@@ -20,4 +20,5 @@ export const englishWordList = [
   "sound",
   "ultra",
   "react",
+  "pizza",
 ];
