@@ -1,6 +1,7 @@
 public class NewFeature {
     public static void main(String[] args) {
-        System.out.println("Hello, from 4.28");
+        String version = "4.28";
+        System.out.println( version + " is released");
     }
 }
 
