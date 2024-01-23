@@ -47,7 +47,8 @@ public class Calculator {
             return num1 * num2;
         }
         if (mode == BiOperatorModes.divide) {
-            return num1 / num2;
+            if(num2!=0)
+              return num1 / num2;
         }
         if (mode == BiOperatorModes.xpowerofy) {
             return pow(num1,num2);
