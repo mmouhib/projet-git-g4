@@ -1,6 +1,6 @@
 <div align="center">
 
-# Simple Java Calculator
+# Simple Java Calculator for Git Project
 
 ![Logo Simple Java Calculator](logo.png)
 
@@ -30,7 +30,6 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 [![Open-Source Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor/blob/master/Screenshots/find-replace-word-in-java-text-editor.png)](https://github.com/pH-7/Simple-Java-Text-Editor "Open-Source Simple Java Text Editor")
 
-
 ## 💡 Authors
 
 ### Base Application
@@ -42,13 +41,11 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 - [Achintha Gunasekara](http://www.achinthagunasekara.com)
 - [xdvrx1](https://github.com/xdvrx1)
 
-
 ## 📮 Contact
 
 Pierre-Henry Soria: pierrehs [AT] hotmail [D0T] com
 
 Achintha Gunasekara: contact [AT] achinthagunasekara [D0T] com
-
 
 ## ⚖️ License
 
